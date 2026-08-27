@@ -16,19 +16,6 @@ Desenvolver e avaliar uma abordagem baseada em **GRASP (Greedy Randomized Adapti
 
 Além da avaliação em instâncias conhecidas da literatura, pretende-se posteriormente aplicar a metodologia a um cenário baseado em regiões críticas de **Nova Iguaçu, Rio de Janeiro**.
 
-## Metodologia
-
-A metodologia proposta é baseada em:
-
-1. Leitura e tratamento das instâncias;
-2. Construção de soluções para o MCLP;
-3. Construção gulosa randomizada;
-4. Restricted Candidate List (RCL);
-5. Aplicação do GRASP;
-6. Aplicação de estratégias de busca local;
-7. Execução de experimentos computacionais;
-8. Comparação dos resultados obtidos.
-
 ## Buscas locais planejadas
 
 Serão avaliadas diferentes estratégias de busca local:
@@ -77,14 +64,9 @@ DE-NI/
 │   ├── pisa/
 │   ├── generated/
 │   └── nova_iguacu/
-│
-├── docs/
-│   └── planejamento/
-│
 ├── src/
 ├── experiments/
 ├── results/
-├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
@@ -114,7 +96,7 @@ Trabalho desenvolvido por:
 
 ## Orientação
 
-**Orientadora: Adria Lira** 
+**Orientadora: Adria Lyra** 
 
 ## Instituição
 
