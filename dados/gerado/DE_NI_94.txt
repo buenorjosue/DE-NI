@@ -1,0 +1,96 @@
+94
+id|logradouro|bairro|impacto|criticidade|custo
+P001|Alameda Nosso Lar|Austin|2|2|1.0
+P002|Av. Doutor Arruda Negreiros|Carlos Sampaio|1|1|1.0
+P003|Avenida Abílio Augusto Távora|Cabuçu|2|2|1.0
+P004|Avenida Tancredo Neves|Bandeirantes|2|2|1.0
+P005|Estrada Doutor Fábio Raunhetti|Jardim Alvorada|2|2|1.0
+P006|Estrada Federal de Tinguá|Tinguá|2|1|1.0
+P007|Estrada Luiz Soares|Comendador Soares|3|3|1.0
+P008|Est. Luiz Mário da Rocha|Austin|2|2|1.0
+P009|Estrada do Riachão|Austin|2|2|1.0
+P010|R. Maria de Andrade|Austin|2|2|1.0
+P011|Rua Alade Marinho|Nova Era|1|1|1.0
+P012|Rua Albino Alves da Mota|Jardim Palmares|2|2|1.0
+P013|Rua Aluizo Nascimento|Jardim Palmares|2|2|1.0
+P014|Rua Amélia Barbosa|Santa Eugênia|1|2|1.0
+P015|Rua André Alves|Comendador Soares|3|3|1.0
+P016|Rua Aqui Ras|Vila Guimarães|1|1|1.0	
+P017|Rua Artur Fonseca de Araújo|Austin|2|2|1.0
+P018|Rua Ahiva|Santa Rita|2|2|1.0
+P019|Rua Alvário de Moura Sá|Comendador Soares|3|3|1.0
+P020|Rua Anita|Comendador Soares|3|3|1.0
+P021|Rua Bartolomeu Bueno|Comendador Soares|3|3|1.0
+P022|Rua Baixa Eduardo Pacheco|Corumbá|2|2|1.0
+P023|Rua Bonfim|Rosa dos Ventos|2|2|1.0
+P024|Rua Buara|Austin|2|2|1.0
+P025|Rua Capela|Paraíso|2|2|1.0
+P026|Rua Capricórnio|Vila Sueli|1|1|1.0
+P027|Rua Carlos Frederico|Jardim Canaã|2|2|1.0
+P028|Rua Carlos Frederico|Flores|1|1|1.0
+P029|Rua Camarú|Jardim Pernambuco|2|2|1.0
+P030|Rua Camarú|Rosa dos Ventos|2|2|1.0
+P031|Rua Caramuru|Cerâmica|2|3|1.0
+P032|Rua Chagas|Caioaba|2|3|1.0
+P033|Rua Cristolino|Jardim Viga|1|1|1.0
+P034|Rua Curitiba|Vista Alegre|1|1|1.0
+P035|Rua das Marrecas|Nova Brasília|1|1|1.0
+P036|Rua das Metrópoles|Jardim Iguaçu|1|1|1.0
+P037|Rua Dez|Caioaba|2|3|1.0
+P038|Rua Doutor Luiz Guimarães|Posse|3|3|1.0
+P039|Rua Doutor Osvaldo Goveia|Jardim Canaã|2|2|1.0
+P040|Rua Doutor Simão Seicht|Carmari|3|2|1.0
+P041|Rua E|Cacuia|1|1|1.0
+P042|Rua E|Posse|3|3|1.0
+P043|Rua Elcio Abreu|Jardim Palmares|2|2|1.0
+P044|Rua Enfrente Dom Henrique|Zenite|1|1|1.0
+P045|Rua Enéas Silvestre|Marapicu|2|2|1.0
+P046|Rua Estrela|Vila Guimarães|1|1|1.0
+P047|Rua Fabiana|Vila São Domingos|1|1|1.0
+P048|Rua Felipe Pereira|Ouro Preto|2|2|1.0
+P049|Rua Fernanda Ferreira de Freitas|Kennedy|2|1|1.0
+P050|Rua Francisco Camelo|Vila São Domingos|1|1|1.0
+P051|Rua Frederico Cameron|Jardim Jasmim|1|1|1.0
+P052|Rua Goytacazes|Moquetá|1|2|1.0
+P053|Rua Gravatá|Cabuçu|2|2|1.0
+P054|Rua Grupiara|Aliança|1|1|1.0
+P055|Rua Habilidade|Rosa dos Ventos|2|2|1.0
+P056|Rua Hernane|Tinguazinho|2|2|1.0
+P057|Rua Hilda Franco|Engenho Pequeno|1|1|1.0
+P058|Rua Inhangueira|Paraíso|2|2|1.0
+P059|Rua I|Paraíso|2|2|1.0
+P060|Rua Jaboatão|Cabuçu|2|2|1.0
+P061|Rua Jaboatão|Jardim Pernambuco|2|2|1.0
+P062|Rua João Ferreira Pinto|Floresta|1|1|1.0
+P063|Rua Jose Claudio|Comendador Soares|3|3|1.0
+P064|Rua Jose Guilherme|Ponto Chic|2|1|1.0
+P065|Rua José Luís Pinto|Ponto Chic|2|1|1.0
+P066|Rua Lamartine Meyer|Caioaba|2|3|1.0
+P067|Rua Leopoldo Domingues|Jardim Canaã|2|2|1.0
+P068|Rua Leste|Paraíso|2|2|1.0
+P069|Rua Linha Velha|Austin|2|2|1.0
+P070|Rua Litoral|Paraíso|2|2|1.0
+P071|Rua Macapá|Jardim Morro Agudo|1|1|1.0
+P072|Rua Marcia Costa|Nova Era|1|1|1.0
+P073|Rua Maria de Lourdes|Da Luz|2|1|1.0
+P074|Rua Maria Lúcia Pacífico|Corumbá|2|2|1.0
+P075|Rua Maria Teixeira de Melo|Jardim Palmares|2|2|1.0
+P076|Rua Maria Vincini|Tinguazinho|2|2|1.0
+P077|Rua Mariflor|Comendador Soares|3|3|1.0
+P078|Rua Mendel Cardoso|Paraíso|2|2|1.0
+P079|Rua Mendel Cardoso Matos|Paraíso|2|2|1.0
+P080|Rua Moqueta|Moquetá|1|2|1.0
+P081|Rua Nair|Rodilândia|1|1|1.0
+P082|Rua Nair|Austin|2|2|1.0
+P083|Rua Panambi|Austin|2|2|1.0
+P084|Rua Paraíso|Cabuçu|2|2|1.0
+P085|Rua Pernambuco|Campo Alegre|2|2|1.0
+P086|Rua Princesa Cristina|Vila Nova|1|1|1.0
+P087|Rua Quinze de Agosto|Centro|2|2|1.0
+P088|Rua Rabi|Caioaba|2|3|1.0
+P089|Rua Rigoleto|Kennedy|2|1|1.0
+P090|Rua Rose Mboim|Nova Era|1|1|1.0
+P091|Rua Sacramento|Jardim Guandu|1|1|1.0
+P092|Estrada da Palhada|Palhada|2|3|1.0
+P093|Rua Bernardino de Melo|Comendador Soares|3|3|1.0
+P094|Avenida Abílio Augusto Távora|Marapicu|2|3|1.0
