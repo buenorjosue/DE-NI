@@ -13,30 +13,19 @@ from geocodificacao import buscar_coordenadas
 from geocodificacao import geocodificar_pontos
 
 def main():
-    quantidade, pontos = ler_instancia(
-        "dados/gerado/DE_NI_94.txt"
-    )
+    quantidade, pontos = ler_instancia("dados/gerado/DE_NI_94.txt")
 
-    pontos_teste = pontos[:10]
+    print("Quantidade informada:", quantidade)
+    print("Quantidade lida:", len(pontos))
 
-    pontos_teste = geocodificar_pontos(
-        pontos_teste
-    )
+    print("Quantidade lida:", pontos)
 
-    pendentes = [
-        ponto
-        for ponto in pontos_teste
-        if ponto["latitude"] is None
-    ]
+    print("\nPrimeiro ponto:")
+    print(pontos[0])
 
-    print("\nPontos não encontrados:")
+    print("\nÚltimo ponto:")
+    print(pontos[-1])
 
-    for ponto in pendentes:
-        print(
-            ponto["id"],
-            ponto["logradouro"],
-            ponto["bairro"]
-        )
 
 if __name__ == "__main__":
     main()
